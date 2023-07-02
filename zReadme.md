@@ -1,0 +1,1 @@
+Ainda não subi o arquivo, avaliando se é uma boa. de repente posso fazer uma branch só com as resoluções. 
