@@ -19,7 +19,7 @@ let valor2 = parseInt(gets());
 let total = ; 
 // Altere o valor da variável com o cálculo esperado;
 
-// note que conforme a orientação, basta apenas definir a expressão de let total, de modo que seja uma multiplicação entre valor1 e valor2;  
+
 console.log("PROD = " + total);
-// o final meio que é sempre imprimir um valor, uma string e uma var;
+
 
