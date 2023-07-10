@@ -16,7 +16,7 @@ Exemplo de Entrada	Exemplo de Saída
 
 let valor1 = parseInt(gets());
 let valor2 = parseInt(gets());
-let total = ; 
+let total =  
 // Altere o valor da variável com o cálculo esperado;
 
 
